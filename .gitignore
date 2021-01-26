@@ -38,5 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-#data file
-*.sav
+#folder with files to ignore
+/d/
